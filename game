@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<title>snakeGame</title>
+<style>
+    *{
+        padding: 0;
+        margin :0;
+    }
+    .body {
+        background : ;
+    }
+</style>
+  </head>  
+  <body>
+    <div class="body ">
+        <div id="board"></div>
+    </div>
+  </body>
+  <script>
+let ()
+  </script>
+</html>
